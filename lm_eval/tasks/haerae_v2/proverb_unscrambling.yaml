@@ -1,0 +1,3 @@
+"dataset_name": "proverb_unscrambling"
+"include": "hr2_direct_generation_yaml"
+"task": "hr2_direct_proverb_unscrambling"

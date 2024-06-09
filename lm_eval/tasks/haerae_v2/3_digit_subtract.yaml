@@ -1,0 +1,3 @@
+"dataset_name": "3_digit_subtract"
+"include": "hr2_direct_generation_yaml"
+"task": "hr2_direct_3_digit_subtract"

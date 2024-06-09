@@ -1,0 +1,3 @@
+"dataset_name": "2_digit_multiply"
+"include": "hr2_direct_generation_yaml"
+"task": "hr2_direct_2_digit_multiply"

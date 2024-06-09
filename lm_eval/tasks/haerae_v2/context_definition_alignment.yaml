@@ -1,0 +1,3 @@
+"dataset_name": "context_definition_alignment"
+"include": "hr2_direct_mcqa_yaml"
+"task": "hr2_direct_context_definition_alignment"
