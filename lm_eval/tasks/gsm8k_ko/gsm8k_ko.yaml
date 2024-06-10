@@ -1,7 +1,8 @@
 group:
   - math_word_problems
 task: gsm8k-ko
-dataset_path: kuotient/gsm8k-ko
+dataset_path: HAERAE-HUB/HAE_RAE_BENCH_2.0
+dataset_name: gsm8k_ko
 output_type: generate_until
 training_split: train
 fewshot_split: train
